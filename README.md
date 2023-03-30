@@ -36,6 +36,7 @@ Git Repo complete edit
 https://github.com/jackilynt/dailyplanner
 
 Published appplication
+https://jackilynt.github.io/dailyplanner/
 
 Technologies Used
 HTML
